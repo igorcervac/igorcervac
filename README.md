@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### About me
+### 🔭 About me
 - 🖥 I'm a Software Engineer and Full Stack Developer
 - 🏆I'm Microsoft Certified (AI-102, AI-900, AZ-204, AZ-400, AZ-900)
 - ❤ I love programming and learning new technologies
    
-### Languages, Frameworks and Technologies
+### ⚙ Languages, Frameworks and Technologies
 - React
 - TypeScript
 - C#
