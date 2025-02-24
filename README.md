@@ -5,13 +5,14 @@
 - I'm Microsoft Certified (AI-102, AI-900, AZ-204, AZ-400, AZ-900)
 - I love programming and learning new technologies
    
-### Languages, Frameworks and Techologies
+### Languages, Frameworks and Technologies
 - React
 - TypeScript
 - C#
 - .NET
+- ASP.NET Core
 - Node.js
-- Javascript
+- JavaScript
 - HTML/CSS
 - Azure AI
 - Azure
