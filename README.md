@@ -8,8 +8,7 @@
 ### ⚙ Languages, Frameworks and Technologies
 - React
 - TypeScript
-- C#
-- .NET
+- C# .NET
 - ASP.NET Core
 - Node.js
 - JavaScript
