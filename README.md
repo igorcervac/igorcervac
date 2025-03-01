@@ -6,13 +6,9 @@
 - ❤ I love programming and learning new technologies
    
 ### ⚙ Languages, Frameworks and Technologies
-- React
-- TypeScript
-- C# .NET
-- ASP.NET Core
-- Node.js
-- JavaScript
-- HTML/CSS
+- React, TypeScript
+- C#, .NET, ASP.NET Core
+- Node.js, JavaScript
 - Azure AI, Azure, Azure DevOps
   
 <!--
